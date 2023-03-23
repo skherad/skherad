@@ -1,16 +1,20 @@
 <h2 align="center"> Hi 👋, I'm Shaz</h2>
 
-<h3>About me</h3>
-<p>I'm a <span font-weight="bold">Full Stack Web Developer</span></p>
-- I'm **Full Stack Developer** dngkdfn
 <ul>
-    <li>I'm currently working on an ecommerce project for a cinder block manufacturing</li>
-    <li>I'm currently learning Vue and TypeScript</li>
-    <li></li>
-    <li></li>
+    <li>👩‍🎓 I'm a <strong>Full Stack Web Developer</strong> graduated from <a href="https://brainstation.io/">BrainStation</a> Web Development Bootcamp</li>
+    <li>💡 I love building great products that simplify's people's lives.</li>
+    <li>📜 Find all my projects on my portfolio <a href="https://shazk.ca">shazk.ca</a></li>
+    <li>🧠 Currently learning Vue and TypeScript</li>
+    <li>🛠️ I used to be a mechanical engineer</li>
 </ul>
 
-<h3>Languages & Tools</h3>
+<h3>🔗 Connect With Me</h3>
+<p>
+<a href="https://www.linkedin.com/in/shazkheradmand/"><img align="left" alt="Linkedin" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://twitter.com/shazkherad"><img align="left" alt="twitter" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
+</p><br><br>
+          
+<h3>🛠️ Languages & Tools</h3>
 
 <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
 
@@ -33,6 +37,8 @@
 <a href="https://www.npmjs.com/"><img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></a>
           
 <a href="https://www.mysql.com/"><img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+
+<a href="http://knexjs.org/"><img align="left" alt="knex" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/knex-icon-512x512-vg01e8qb.png" /></a>
           
 <a href="https://git-scm.com/"><img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
           
@@ -45,9 +51,12 @@
 <a href="https://www.atlassian.com/software/jira"><img align="left" alt="jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />          </a>
 
 <a href="https://code.visualstudio.com/"><img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
+
+<a href="https://postman.com"><img align="left" alt="postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></a>
+
           
-          
-               
+
+              
           
 <!--
 **skherad/skherad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
