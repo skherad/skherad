@@ -5,7 +5,7 @@
     <li>💡 I love building great products that simplifies people's lives.</li>
     <li>📜 Find all of my projects on my portfolio <a href="https://shazk.ca">shazk.ca</a></li>
     <li>🧠 Currently learning Vue and TypeScript</li>
-    <li>🛠️ I used to be a mechanical engineer</li>
+    <li>🛠️ I used to be a Mechanical Engineer</li>
 </ul>
 
 <h3>🔗 Connect With Me</h3>
@@ -14,7 +14,7 @@
 <a href="https://twitter.com/shazkherad"><img align="left" alt="twitter" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
 </p><br><br>
           
-<h3>🛠️ Languages & Tools</h3>
+<h3>⚒️ Languages & Tools</h3>
 
 <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
 
@@ -54,21 +54,7 @@
 
 <a href="https://postman.com"><img align="left" alt="postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></a>
 
-          
+<br></br>          
+<br></br>
 
-              
-          
-<!--
-**skherad/skherad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skherad&layout=compact)](https://github.com/skherad/github-readme-stats)
