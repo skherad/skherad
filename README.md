@@ -57,4 +57,4 @@
 <br></br>          
 <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skherad&layout=compact)](https://github.com/skherad/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skherad&show_icons=true&locale=en&layout=compact" alt="skherad" /></p>
