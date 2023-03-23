@@ -1,9 +1,9 @@
-<h2 align="center"> Hi 👋, I'm Shaz</h2>
+## Hi 👋, I'm Shaz!
 
 <ul>
     <li>👩‍🎓 I'm a <strong>Full Stack Web Developer</strong> graduated from <a href="https://brainstation.io/">BrainStation</a> Web Development Bootcamp</li>
-    <li>💡 I love building great products that simplify's people's lives.</li>
-    <li>📜 Find all my projects on my portfolio <a href="https://shazk.ca">shazk.ca</a></li>
+    <li>💡 I love building great products that simplifies people's lives.</li>
+    <li>📜 Find all of my projects on my portfolio <a href="https://shazk.ca">shazk.ca</a></li>
     <li>🧠 Currently learning Vue and TypeScript</li>
     <li>🛠️ I used to be a mechanical engineer</li>
 </ul>
