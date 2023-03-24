@@ -1,4 +1,4 @@
-## Hi 👋, I'm Shaz!
+## Hi 👋, I'm Shahrzad or Shaz for short!
 
 <ul>
     <li>👩‍🎓 I'm a <strong>Full Stack Web Developer</strong> graduated from <a href="https://brainstation.io/">BrainStation</a> Web Development Bootcamp</li>
