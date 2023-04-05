@@ -5,7 +5,7 @@
     <li>💡 I love building great products that simplifies lives</li>
     <li>📜 Find all of my projects on my portfolio <a href="https://shazk.ca">shazk.ca</a></li>
     <li>🧠 Currently learning Vue and TypeScript</li>
-    <li>💪 Join me <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> challenge!</li>
+    <li>💪 Join <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> challenge with me</li>
     <li>🛠️ I used to be a Mechanical Engineer</li>
 </ul>
 
