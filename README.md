@@ -2,9 +2,9 @@
 
 <ul>
     <li>👩‍🎓 I'm a <strong>Full Stack Web Developer</strong> graduated from <a href="https://brainstation.io/">BrainStation</a> Web Development Bootcamp</li>
-    <li>💡 I love building great products that simplifies lives</li>
+    <li>💡 I love building great products that simplify lives</li>
     <li>📜 Find all of my projects on my portfolio <a href="https://shazk.ca">shazk.ca</a></li>
-    <li>🧠 Currently learning Vue and TypeScript</li>
+    <li>🧠 Currently learning Vue, TypeScript, and GraphQL</li>
     <li>💪 Join <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> challenge with me</li>
     <li>🛠️ I used to be a Mechanical Engineer</li>
 </ul>
@@ -36,6 +36,8 @@
 <a href="https://nodejs.org/"><img align="left" alt="nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
 
 <a href="https://www.npmjs.com/"><img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></a>
+
+<a href="https://www.npmjs.com/"><img align="left" alt="graphql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></a>
           
 <a href="https://www.mysql.com/"><img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
 
