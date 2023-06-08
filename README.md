@@ -60,4 +60,4 @@
 <br></br>          
 <br></br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skherad&layout=pie" alt="skherad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skherad&layout=donut" alt="skherad" /></p>
