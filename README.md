@@ -4,9 +4,10 @@
     <li>👩‍🎓 I'm a <strong>Full Stack Web Developer</strong> graduated from <a href="https://brainstation.io/">BrainStation</a> Web Development Bootcamp</li>
     <li>💡 I love building great products that simplify lives</li>
     <li>📜 Find all of my projects on my portfolio <a href="https://shazk.ca">shazk.ca</a></li>
-    <li>🧠 Currently learning Vue, TypeScript, and GraphQL</li>
-    <li>💪 Join <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> challenge with me</li>
+    <li>🧠 Currently learning Java, Microservices Architecture</li>
+    <li>💪 Try out <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> challenge, I completed one round</li>
     <li>🛠️ I used to be a Mechanical Engineer</li>
+    <li>👩‍💻 currently working at <a href="https://www.lodgelink.com/">LodgeLink</a> as a full stack developer!</li>
 </ul>
 
 <h3>🔗 Connect With Me</h3>
@@ -56,6 +57,8 @@
 <a href="https://code.visualstudio.com/"><img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 
 <a href="https://postman.com"><img align="left" alt="postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></a>
+
+<a href="https://azure.microsoft.com/en-ca/"><img align="left" alt="azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /></a>
 
 <br></br>          
 <br></br>
